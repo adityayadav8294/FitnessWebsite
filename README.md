@@ -1,2 +1,162 @@
 # FitnessWebsite
 Fitness App UI Template built with modern design principles. Includes onboarding, home, explore, workout tracking, activity analytics, and progress screens. Clean typography, vibrant colors, and user-friendly layouts make it perfect for fitness, health, and lifestyle applications.
+
+
+
+---
+
+📂 Project Structure :-
+
+This repository includes all exported UI screens and design assets from the Figma project:
+
+>> Onboarding Screen :
+
+Welcoming interface with motivational visuals and call-to-action (CTA).
+Encourages users to start their fitness journey.
+
+
+---
+
+
+>> Home Screen :
+
+• Personalized greeting with the user’s name.
+• Quick search bar.
+• Popular workout suggestions.
+• Today’s workout plan with progress tracking (Push Ups, Sit Ups, etc.).
+
+
+---
+
+
+>> Explore Screen :
+
+• Discover recommended workouts.
+• “Best for You” section with personalized exercises.
+• Challenges (Plank, Sprint, Squat).
+• Quick warm-up workouts.
+
+
+---
+
+
+>> Workout Screen :
+
+• Detailed workout session layout.
+• Time & calorie burn tracking.
+• List of exercises with rounds (Jumping Jacks, Squats, Backward Lunge, etc.).
+• Call-to-action button: “Let’s Workout”.
+
+
+---
+
+
+>> Activity / Analytics Screen :
+
+• Daily/weekly reports.
+• Active calories burned.
+• Training time & completed sessions.
+• Heart rate monitor.
+• Sleep cycle visualization.
+• Water intake tracker.
+• Steps counter with motivational feedback.
+
+
+---
+
+
+>> Fonts \\\& Colors :
+
+Font Family:-
+
+    • Lato (Regular, Medium, SemiBold, Bold, ExtraBold).
+
+Primary Colors:-
+
+    • Dark (#192126)
+    • Lime Green (#BBF246)
+
+Secondary Colors:-
+
+    • Gray shades: #8B8F92, #5E6468, #384046
+    • Accent shades: Purple (#A48AED), Red (#ED4747), Yellow (#FCC46F), Blue (#95CCE3)
+
+
+---
+
+
+>> Assets:
+
+• Backgrounds (BG.png, Bg-1.png)
+• Preview images (Onboarding.jpg, Explore.jpg, Workout.jpg, Activity.jpg, Home.jpg)
+
+
+
+---
+
+
+
+>> 🎨Design Highlights :
+
+• Minimal & Modern: Clean UI with intuitive navigation.
+• Consistency: Reusable components and color system.
+• User Motivation: Progress tracking & motivational messages.
+• Health Focused: Sleep, water, steps, and heart rate tracking in one app.
+• Typography: Lato font family for readability and style consistency.
+
+
+---
+
+
+>> 🚀How to Use :
+
+Clone this repository:-
+    • git clone https://github.com/yourusername/fitness-app-ui.git
+
+• Open the exported images/screenshots in the UI Screens folder.
+• Open the Figma file (if included) to edit or extend the design.
+• Use the provided fonts & color guidelines for development.
+
+
+---
+
+
+>> 📱Use Cases :
+
+• This UI kit is ideal for:
+• Fitness tracking apps.
+• Workout coaching & training apps.
+• Health & lifestyle monitoring apps.
+• Personal trainers creating custom mobile solutions.
+
+
+---
+
+
+>> 📸Screens Previews :
+Onboarding Screen
+
+    • Home Screen
+    • Explore Screen
+    • Workout Screen
+    • Activity / Analytics Screen
+    • Fonts & Colors
+
+
+---
+
+
+>> 🔑License :
+
+This UI Kit is free to use for personal and educational projects.
+For commercial use, please provide credit to the designer.
+
+
+---
+
+
+>> 👨‍💻Author :
+
+Designed & Documented by [Aditya Yadav]
+📩 Contact: adityasingh829442@gmail.com
+🌐 Portfolio: [https://adityayadav8294.github.io/A/]
