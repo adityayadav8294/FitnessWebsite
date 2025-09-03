@@ -166,4 +166,5 @@ For commercial use, please provide credit to the designer.
 
 Designed & Documented by [Aditya Yadav]
 📩 Contact: adityasingh829442@gmail.com
-🌐 Portfolio: [https://adityayadav8294.github.io/A/]
+🌐 Portfolio: [https://aditya82.netlify.app/]
+
